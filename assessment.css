@@ -1,0 +1,18 @@
+body {
+    background-color: #04A6EB;
+    color: #fdffff;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    padding: 5px 20px; /* 上下　左右　の境界線内側の余白 */
+    background-color: gray;
+    color:white;
+    border-style: none;
+}
+
+input {
+    height: 20px;
+}
